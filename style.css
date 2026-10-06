@@ -16,4 +16,5 @@ h2{
 ul{
     color: red;
     font-size: large;
+    list-style-position: inside;
 }
