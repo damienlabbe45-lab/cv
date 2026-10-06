@@ -1,9 +1,19 @@
 h1{
-    font-size: large;
-    font-family: 'serif';
-    color: darkslategrey;
+    font-size: xx-large;
+    color: blue;
 }
 
 body {
     text-align: center;
+    font-family: 'serif';
+}
+
+h2{
+    color: blue;
+    font-size: x-large;
+}
+
+ul{
+    color: red;
+    font-size: large;
 }
