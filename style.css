@@ -13,7 +13,7 @@ h2{
     font-size: x-large;
 }
 
-ul{
+ul, p{
     color: red;
     font-size: large;
     list-style-position: inside;
