@@ -17,4 +17,16 @@ ul{
     color: red;
     font-size: large;
     list-style-position: inside;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    padding: 6px 12px;
+    border-radius: 12px;
+    font-size: medium;
 }
